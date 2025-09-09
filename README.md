@@ -1,16 +1,23 @@
-## Hi there 👋
+#  Hello I'm Baskoro Muhammad Mutakin
 
-<!--
-**Arthurleyyy/Arthurleyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Baskoro](img/github-header-1.png)
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 I love playing games  
+🍳 Cooking is my therapy  
+💡 Always sharpening my skills  
+😊 Friendly and open to collaboration  
+
+My Github Profile
+
+Skill
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,laravel)](https://skillicons.dev)
+
+Conennect with me
+
+![https://www.instagram.com/baslagyerrr/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+![https://www.tiktok.com/@arthurleyyy](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
